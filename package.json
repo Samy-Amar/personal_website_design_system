@@ -44,5 +44,6 @@
     "build-storybook": "storybook build",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
-  }
+  },
+  "type": "module"
 }
